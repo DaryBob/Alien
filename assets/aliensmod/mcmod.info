@@ -1,0 +1,16 @@
+[
+{
+  "modid": "aliensmod",
+  "name": "Aliens Mod",
+  "description": "ALIENSSSSSSSSSS",
+  "version": "0.0.1",
+  "mcversion": "1.7.10",
+  "url": "legacyunlimited",
+  "updateUrl": "",
+  "authorList": ["MadModding","DaryBob","MadHat", "Harp"],
+  "credits": ".",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
