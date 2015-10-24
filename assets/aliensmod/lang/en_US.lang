@@ -1,0 +1,10 @@
+item.ItemAlienStaff1.name=Evil Staff
+
+tile.BlockAlienEgg.name=Alien Egg
+tile.BlockMeteor.name=Meteor
+
+key.aliens.category=Aliens
+key.evilstaff.fire.desc=Evil Staff: Fire Attack
+key.evilstaff.ice.desc=Evil Staff: Ice Attack
+key.evilstaff.lightning.desc=Evil Staff: Lightning Attack
+key.evilstaff.earth.desc=Evil Staff: Earth Attack
